@@ -15,4 +15,4 @@ Link to Pages:
 
 ## Features
 
-Writting a description in an hour block and saving it will save to the users local storage and will be retrieved on each reload.
+Writing a description in an hour block and saving it will save to the users local storage and will be retrieved on each reload.
