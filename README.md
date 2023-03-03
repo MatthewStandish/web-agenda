@@ -13,6 +13,16 @@ Link to Pages:
 
 ![web-agenda](assets/images/web-agenda.png)
 
+## License
+
+![GitHub](https://img.shields.io/github/license/MatthewStandish/web-agenda)
+
+## Badges
+
+![GitHub top language](https://img.shields.io/github/languages/top/MatthewStandish/web-agenda)
+![GitHub top language](https://img.shields.io/badge/css-14.7-blue)
+![GitHub top language](https://img.shields.io/badge/javascript-12.8%25-blue)
+
 ## Features
 
 Writing a description in an hour block and saving it will save to the users local storage and will be retrieved on each reload.
